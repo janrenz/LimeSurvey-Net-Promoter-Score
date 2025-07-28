@@ -61,7 +61,6 @@
         <attribute>
             <name>nps_right_text</name>
             <category>Custom options</category>
-            <sortorder>1</sortorder>
             <inputtype>text</inputtype>
             <default>...</default>
             <help>The right text displayed above the scale.</help>
@@ -88,6 +87,7 @@
             <category>Custom options</category>
             <sortorder>3</sortorder>
             <inputtype>text</inputtype>
+        <apiVersion>2</apiVersion>
             <default>#FF0000</default>
             <help>The top-border colour for answer "0" if "Show colours" is set to Yes. Must be a valid CSS border-color value.</help>
             <caption>Colour 0</caption>
